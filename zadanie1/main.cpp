@@ -66,6 +66,7 @@ void calcMedian(int array[], int counter, int* result)
 
 int main()
 {
+	setlocale(LC_ALL, "");	//oszustwo
 	/*
 		Wczytywanie danych z pliku txt
 	*/
@@ -98,6 +99,12 @@ int main()
 	//Porównanie wartości
 	cout << mean << endl;
 	cout << median << endl;
+	if (mean < median)
+		cout << "mediana jest większa" << endl;
+	else if (mean > median)
+		cout << "srednia jest większa" << endl;
+	else
+		cout << "wartosci są równe" << endl;
 
 	system("PAUSE");
 	return 0;
