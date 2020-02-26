@@ -1,7 +1,7 @@
 ### Zadanie 2
 Zakładam znane długości ramion robota, jeden stopień swobody na ramię oraz dokładną znajomość położenia silników (enkoder, serwo etc.)
 Co daje w przybliżeniu taki schemat
-![Robotarm](https://github.com/MSlomiany/Linetech_test/blob/master/zadanie2/robot.png)
+![Robotarm](https://github.com/MSlomiany/Linetech_test/blob/master/zadanie2/robotarm.png)
 * Wektor A:
   * Początek w 0,0,0
   * Koniec w:
