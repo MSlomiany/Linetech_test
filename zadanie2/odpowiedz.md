@@ -1,7 +1,7 @@
 ### Zadanie 2
 Zakładam znane długości ramion robota, jeden stopień swobody na ramię oraz dokładną znajomość położenia silników (enkoder, serwo etc.)
 Co daje w przybliżeniu taki schemat
-![GitHub Logo](https://github.com/MSlomiany/Linetech_test/blob/master/zadanie2/robot.png)
+![Robotarm](https://github.com/MSlomiany/Linetech_test/blob/master/zadanie2/robot.png)
 * Wektor A:
   * Początek w 0,0,0
   * Koniec w:
@@ -16,3 +16,5 @@ Analogicznie wektor C, jego długość jest podana poprzez wynik pomiaru długo�
 
 Punkt K wektora OK obliczamy dodając kolejno punkty składowych wektorów.
 Aby obliczyć |OK| należy obliczyć pod pierwiastkiem yK^2+zK^2 (punkt O ma wspołrzędne 0,0,0).
+
+
