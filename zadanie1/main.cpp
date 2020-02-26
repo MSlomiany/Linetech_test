@@ -2,6 +2,8 @@
 	Michał Słomiany
 	Rzeszów 2020
 	github.com/MSlomiany
+	Zdecydowanie najprościej i jak najmniej kod
+	Niekoniecznie ładnie i optymalnie
 */
 
 #include<iostream>
